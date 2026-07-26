@@ -140,11 +140,11 @@ footer{
     transition: transform 0.3s;
 }
 img{
-    width: 40px;
-    height: 40px;
-    border-radius: 40px;
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
     object-fit: cover;
-    margin-bottom: 8px;
+    margin-bottom: 4px;
     border: 2px solid #2196f3;
 }
 .dark{
